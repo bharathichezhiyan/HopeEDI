@@ -36,3 +36,5 @@ Please cite the following when using this code
     abstract = "Hope is considered significant for the well-being, recuperation and restoration of human life by health professionals. Hope speech reflects the belief that one can discover pathways to their desired objectives and become roused to utilise those pathways. To encourage research in natural language processing towards positive reinforcement approach, we created a hope speech detection dataset. This paper reports on the shared task of hope speech detection for Tamil, English, and Malayalam languages. The shared task was conducted as a part of the EACL 2021 workshop on Language Technology for Equality, Diversity, and Inclusion (LT-EDI-2021). We summarize here the datasets for this challenge which are openly available at https://competitions.codalab.org/competitions/27653, and present an overview of the methods and the results of the competing systems. To the best of our knowledge, this is the first shared task to conduct hope speech detection.",
 }
 ```
+# For more details about the shared tasks and participants codes please visit
+https://www.aclweb.org/anthology/volumes/2021.ltedi-1/ 
